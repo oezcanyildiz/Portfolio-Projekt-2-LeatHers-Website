@@ -1,0 +1,182 @@
+{
+  "users": [
+    {
+      "name": "demo",
+      "email": "demo@gmail.com",
+      "password": "e7022105d07a6e95428a30b5ce15374c7e6bcd59",
+      "id": 1
+    }
+  ],
+  "damen": [
+    {
+      "name": "Portemonnaies",
+      "id": 1
+    },
+    {
+      "name": "Taschen",
+      "id": 2
+    },
+    {
+      "name": "Rucksäcke",
+      "id": 3
+    }
+  ],
+  "herren": [
+    {
+      "name": "Portemonnaies",
+      "id": 1
+    },
+    {
+      "name": "Gürtel",
+      "id": 2
+    },
+    {
+      "name": "Rucksäcke",
+      "id": 3
+    },
+    {
+      "name": "Arbeitstasche",
+      "id": 4
+    }
+  ],
+  "kinder": [
+    {
+      "name": "Schultaschen",
+      "id": 1
+    }
+  ],
+  "liked": [],
+  "itemList": [
+    {
+      "itemID": 1,
+      "name": "Rucksack",
+      "id": 1,
+      "url": "/src/img/Backback-women.jpeg",
+      "preis": 49.99,
+      "oldprice": 59.99
+    },
+    {
+      "itemID": 2,
+      "name": "Tasche",
+      "id": 2,
+      "url": "/src/img/Damentitlebild.webp",
+      "preis": 45.99
+    },
+    {
+      "itemID": 2,
+      "name": "Tasche",
+      "id": 3,
+      "url": "/src/img/Damentitlebild1.webp",
+      "preis": 59.99
+    },
+    {
+      "itemID": 2,
+      "name": "Tasche",
+      "id": 4,
+      "url": "/src/img/Ledertasche.webp",
+      "preis": 49.99,
+      "oldprice": 59.99
+    },
+    {
+      "itemID": 2,
+      "name": "Tasche",
+      "id": 5,
+      "url": "/src/img/LedertascheLimi.webp",
+      "preis": 39.99
+    },
+    {
+      "itemID": 3,
+      "name": "Portmaniee",
+      "id": 6,
+      "url": "/src/img/Women-purse.jpeg",
+      "preis": 69.99,
+      "oldprice": 75.99
+    },
+    {
+      "itemID": 1,
+      "name": "Rucksack",
+      "id": 7,
+      "url": "/src/img/Women-backbag.webp",
+      "preis": 59.99
+    }
+  ],
+  "itemListH": [
+    {
+      "itemID": 1,
+      "name": "Portemonnaies",
+      "id": 1,
+      "url": "/src/img/Man-purse.jpeg",
+      "preis": 49.99,
+      "oldprice": 59.99
+    },
+    {
+      "itemID": 4,
+      "name": "Arbeitstasche",
+      "id": 2,
+      "url": "/src/img/Arbeitstasche.jpeg",
+      "preis": 45.99
+    },
+    {
+      "itemID": 2,
+      "name": "Gürtel",
+      "id": 3,
+      "url": "/src/img/Gürtel.jpeg",
+      "preis": 29.99
+    },
+    {
+      "itemID": 1,
+      "name": "Portemonnaies",
+      "id": 4,
+      "url": "/src/img/Geldboerse.webp",
+      "preis": 29.99,
+      "oldprice": 39.99
+    },
+    {
+      "itemID": 2,
+      "name": "Gürtel",
+      "id": 5,
+      "url": "/src/img/gürtel2.jpeg",
+      "preis": 39.99
+    },
+    {
+      "itemID": 3,
+      "name": "Rucksack",
+      "id": 6,
+      "url": "/src/img/Man-backpack.avif",
+      "preis": 69.99,
+      "oldprice": 75.99
+    },
+    {
+      "itemID": 4,
+      "name": "Arbeitstasche",
+      "id": 7,
+      "url": "/src/img/Arbeittasche.webp",
+      "preis": 59.99
+    },
+    {
+      "itemID": 3,
+      "name": "Rucksack",
+      "id": 7,
+      "url": "/src/img/rucksack3.webp",
+      "preis": 59.99
+    }
+  ],
+  "itemListK": [
+    {
+      "itemID": 1,
+      "name": "Schulrucksack",
+      "id": 2,
+      "url": "/src/img/Kinder-backbag-1.jpeg",
+      "preis": 49.99,
+      "oldprice": 59.99
+    },
+    {
+      "itemID": 1,
+      "name": "Schulrucksack",
+      "id": 3,
+      "url": "/src/img/Kinder-backbag-2.jpeg",
+      "preis": 49.99,
+      "oldprice": 59.99
+    }
+  ]
+}
